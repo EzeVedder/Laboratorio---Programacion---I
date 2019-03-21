@@ -1,2 +1,2 @@
-# clase_01
+# Clases de laboratorio y programación
 clase_01
